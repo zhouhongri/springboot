@@ -13,7 +13,7 @@ public class Test {
 	@RequestMapping("/")
 	@ResponseBody
 	public String haha() {
-		return "666";
+		return "66666";
 	}
 	@RequestMapping("/hello")
 	public String haha2(Map<String,Object> map) {
